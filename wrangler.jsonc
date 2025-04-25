@@ -4,7 +4,7 @@
   "name": "damp-cloud-0d70",
   "migrations": [
     {
-      "new_classes": ["Globe"],
+      "new_sqlite_classes": ["Globe"],
       "tag": "v1"
     }
   ],
